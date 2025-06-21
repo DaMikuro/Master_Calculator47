@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MathMystic</string>
+    <string name="register">Регистрация</string>
+    <string name="login">Авторизация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="already_have_account">Уже есть аккаунт? Авторизуйтесь</string>
+    <string name="register_button">Зарегистрироваться</string>
+    <string name="login_button">Авторизация</string>
+    <string name="no_account">Впервые здесь? Зарегистрируйтесь</string>
+    <string name="start_range">Начало</string>
+    <string name="end_range">Конец</string>
+    <string name="start_search">Начать поиск</string>
+    <string name="clear">Очистить журнал действий</string>
+    <string name="clearhistory">Очистить историю</string>
+    <string name="task_1">Задача 1: Цукерман</string>
+    <string name="task_2">Задача 2: Нивен</string>
+    <string name="task_3">Задача 3: Счастливые числа</string>
+    <string name="task_4">Задача 4: Лишрел</string>
+    <string name="history">История действий</string>
+    <string name="back">Назад</string>
+    <string name="end">Выйти из аккаунта</string>
+    <string name="Operation_log">Журнал действий</string>
+</resources>
